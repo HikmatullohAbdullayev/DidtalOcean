@@ -522,6 +522,7 @@ form img {
   border: 1px solid transparent;
   border-radius: 10px;
   background-color: var(--primary);
+  outline: none;
 }
 .form_btn:hover {
   cursor: pointer;
